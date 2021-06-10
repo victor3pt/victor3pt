@@ -10,8 +10,8 @@
  */
 @font-face {
   font-family: 'Junge Regular';
-  src: url(/luchentu.cn/assets/fonts/junge-regular-webfont.eot);
-  src: url(/luchentu.cn/assets/fonts/junge-regular-webfont.eot?#iefix) format('embedded-opentype'), url(/luchentu.cn/assets/fonts/junge-regular-webfont.woff) format('woff'), url(/luchentu.cn/assets/fonts/junge-regular-webfont.ttf) format('truetype'), url(/luchentu.cn/assets/fonts/junge-regular-webfont.svg#jungeregular) format('svg');
+  src: url(/victor3pt/assets/fonts/junge-regular-webfont.eot);
+  src: url(/victor3pt/assets/fonts/junge-regular-webfont.eot?#iefix) format('embedded-opentype'), url(/victor3pt/assets/fonts/junge-regular-webfont.woff) format('woff'), url(/victor3pt/assets/fonts/junge-regular-webfont.ttf) format('truetype'), url(/victor3pt/assets/fonts/junge-regular-webfont.svg#jungeregular) format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -150,7 +150,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: #FFFFFF;
-  background: url(/luchentu.cn/home/assets/images/intro-bg-cass-bay.jpg) no-repeat bottom center scroll;
+  background: url(/victor3pt/home/assets/images/intro-bg-cass-bay.jpg) no-repeat bottom center scroll;
   background-color: #000000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -265,7 +265,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: #FFFFFF;
-  background: url(/luchentu.cn/home/assets/images/downloads-bg-queenstown.jpg) no-repeat center center scroll;
+  background: url(/victor3pt/home/assets/images/downloads-bg-queenstown.jpg) no-repeat center center scroll;
   background-color: #000000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
