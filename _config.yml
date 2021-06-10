@@ -1,0 +1,70 @@
+# Site Settings
+encoding: UTF-8
+exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
+lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
+permalink: /blog/:year/:month/:day/:title/
+
+whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  auto_id_prefix: 'heading-'
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  toc_levels: 1..3
+
+sass:
+  style: compressed
+
+# Site Data
+url: # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /luchentu.cn # the subpath of your site, e.g. /blog
+title: 维斯有条河
+description: roam
+keywords: '维斯有条河,Reflexivity,曾范腾的博客,jekyll,theme,gem-based,blog'
+author:
+  name: v7_reflexivity
+  job_title:
+  location:
+  email: 1273575463@qq.com
+  social_links:
+    - name: facebook
+      url:
+    - name: github
+      url: https://github.com/ZengTianTu
+    - name: instagram
+      url:
+    - name: linkedin
+      url:
+    - name: stackoverflow
+      url:
+    - name: twitter
+      url: 
+    - name: vk
+      url:
+home:
+  section1: <h1>维斯有条河</h1>
+  section2: <h2>我总让希望伴我随行，即使盲目无知 我也能找到前行方向</h2>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ZengTianTu" title="View on GitHub"></a></div>
+blog:
+  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
+  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
+  footer_content: Planck Quantum Foam String. Riger Antares The Pillars of Creation IC1101 Pisces-Cetus Supercluster Complex. </br>Hope in the heart forever 
+  #A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+
+disqus:
+  shortname: vsblog # e.g. yizeng
+  public_key: w2DYOL0ucwcCtRi7fFH71YNf97cqpWCqK1AF0IgOqe9r78g7ASixBJeSKtIRYvmA # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
+google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
+addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+
+paths:
+  home: /
+  blog: /blog/
+  categories: /blog/categories/
+  tags: /blog/tags/
+  links: /blog/links/
