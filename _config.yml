@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /luchentu.cn # the subpath of your site, e.g. /blog
+baseurl: /victor3pt # the subpath of your site, e.g. /blog
 title: 维斯有条河
 description: roam
 keywords: '维斯有条河,Reflexivity,曾范腾的博客,jekyll,theme,gem-based,blog'
