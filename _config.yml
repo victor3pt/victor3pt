@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/ZengTianTu
+      url: https://github.com/victor3pt
     - name: instagram
       url:
     - name: linkedin
@@ -49,7 +49,7 @@ author:
 home:
   section1: <h1>维斯有条河</h1>
   section2: <h2>我总让希望伴我随行，即使盲目无知 我也能找到前行方向</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/ZengTianTu" title="View on GitHub"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/victor3pt" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
