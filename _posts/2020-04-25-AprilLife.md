@@ -37,6 +37,8 @@ permalink: /:categories/:title
 
 最后po一些照片。图片上传到SM·MS图床，有时加载图片会很慢。
 
+![我在龙门.jpg](https://i.loli.net/2021/07/23/eJvWNgAxmrEIpGH.jpg)
+
 ![微信图片_202004292202282.jpg](https://i.loli.net/2020/04/29/roqCOdUwf9v6KPj.jpg)
 
 ![微信图片_202004292202285.jpg](https://i.loli.net/2020/04/29/WU46NyeA72LnRKf.jpg)
