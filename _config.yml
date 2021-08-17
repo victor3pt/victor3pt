@@ -23,9 +23,9 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /victor3pt # the subpath of your site, e.g. /blog
-title: 维斯有条河
+title: Victor3ptAKG_NF曾
 description: roam
-keywords: '维斯有条河,Reflexivity,曾范腾的博客,jekyll,theme,gem-based,blog'
+keywords: 'Victor3ptAKG_NF曾,Reflexivity,曾范腾的博客,jekyll,theme,gem-based,blog'
 author:
   name: v7_reflexivity
   job_title:
@@ -47,7 +47,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>维斯有条河</h1>
+  section1: <h1>Victor3ptAKG_NF曾</h1>
   section2: <h2>我总让希望伴我随行，即使盲目无知 我也能找到前行方向</h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/victor3pt" title="View on GitHub"></a></div>
 blog:
